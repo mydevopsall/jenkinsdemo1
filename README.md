@@ -1,6 +1,8 @@
 # jenkinsdemo1
-added HelloInteger.java
-to build run below commands
+
+Added HelloInteger.java
+
+To build the java file run the below commands
 
 javac HelloInteger.java
 
